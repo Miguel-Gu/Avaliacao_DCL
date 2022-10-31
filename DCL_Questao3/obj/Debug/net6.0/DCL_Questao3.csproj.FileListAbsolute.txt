@@ -1,0 +1,15 @@
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\bin\Debug\net6.0\DCL_Questao3.exe
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\bin\Debug\net6.0\DCL_Questao3.deps.json
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\bin\Debug\net6.0\DCL_Questao3.runtimeconfig.json
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\bin\Debug\net6.0\DCL_Questao3.dll
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\bin\Debug\net6.0\DCL_Questao3.pdb
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.csproj.AssemblyReference.cache
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.AssemblyInfo.cs
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.dll
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\refint\DCL_Questao3.dll
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.pdb
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\DCL_Questao3.genruntimeconfig.cache
+C:\Users\gumig\Desktop\DCL\DCL_Questao3\obj\Debug\net6.0\ref\DCL_Questao3.dll
